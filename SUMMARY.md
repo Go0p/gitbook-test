@@ -1,7 +1,22 @@
+# Table of contents
+
+* [简介](README.md)
+
+## 入门指南
+* [快速开始](getting-started/quick-start.md)
+* [基础配置](getting-started/basic-configuration.md)
+
+## 核心概念
+* [项目结构](core-concepts/project-structure.md)
+* [配置文件](core-concepts/configuration.md)
+
+## 最佳实践
+* [开发流程](best-practices/development-workflow.md)
+* [常见问题](best-practices/faq.md)
+
 # 目录
 
 * [Yak 语言文档](README.md)
-* [快速开始](quickstart.md)
 * [语言基础](basics/README.md)
   * [语法规则](basics/syntax.md)
   * [数据类型](basics/types.md)
