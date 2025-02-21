@@ -15,6 +15,16 @@ Yak 是一个为安全研究人员设计的嵌入式脚本语言。它提供了�
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
 
 
+{% tabs %}
+
+{% tab title="Windows" %} Here are the instructions for Windows {% endtab %}
+
+{% tab title="OSX" %} Here are the instructions for macOS {% endtab %}
+
+{% tab title="Linux" %} Here are the instructions for Linux {% endtab %}
+
+{% endtabs %}
+
 
 查看[快速开始](basics/)章节来了解如何使用 Yak。
 
