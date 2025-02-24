@@ -26,10 +26,9 @@ Yak 是一个为安全研究人员设计的嵌入式脚本语言。它提供了�
 {% endtabs %}
 
 
-查看[快速开始](basics/)章节来了解如何使用 Yak。
+查看[快速开始](basics/control-structures.md)章节来了解如何使用 Yak。
 
 ## 文档导航
 
-* [语言基础](basics/) - 学习 Yak 的基本语法和概念
-* [API 参考](api/) - 详细的 API 文档
-* [最佳实践](best-practices/) - 开发建议和使用技巧
+* [语言基础](basics/README.md) - 学习 Yak 的基本语法和概念
+* [API 参考](api/README.md) - 详细的 API 文档

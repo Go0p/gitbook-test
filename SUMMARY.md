@@ -1,8 +1,5 @@
 # Table of contents
 
-{% tabs %}
-
-{% tab title="Windows" %}
 
 * [简介](README.md)
 
@@ -32,12 +29,5 @@
   * [代码风格](best-practices/code-style.md)
   * [性能优化](best-practices/performance.md)
 
-{% endtab %}
-
-{% tab title="OSX" %} Here are the instructions for macOS {% endtab %}
-
-{% tab title="Linux" %} Here are the instructions for Linux {% endtab %}
-
-{% endtabs %}
 
 
